@@ -24,4 +24,6 @@ This service is built to demonstrate REST-style API endpoints for managing data 
 
 💡 Example Postman Requests
 
+📌 About
 
+This repository contains a simple backend REST API meant for learning and demonstration. It supports basic CRUD operations (Create, Read, Update & Delete) on a resource — tested via API clients like Postman.
