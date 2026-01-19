@@ -51,7 +51,7 @@ Express.js — Web framework for routing and API handling
 Postman — For testing the API endpoints
 
 
-🧱 Project Structure
+## 🧱 Project Structure
 
 rest-api/
 
@@ -72,7 +72,7 @@ rest-api/
 └── README.md
 
 
-⚙️ Requirements
+## ⚙️ Requirements
 
 Ensure you have installed:
 
@@ -83,18 +83,12 @@ npm (Node package manager)
 Postman to test requests
 
 
-🧪 API Endpoints
+## 🧪 API Endpoints
 
-| Method | Route            | Description             |
-
-| ------ | ---------------- | ----------------------- |
-
-| GET    | `/api/items`     | List all items          |
-
-| GET    | `/api/items/:id` | Get details of one item |
-
-| POST   | `/api/items`     | Create a new item       |
-
-| PUT    | `/api/items/:id` | Update an existing item |
-
-| DELETE | `/api/items/:id` | Delete an item          |
+| Method | Route              | Description                  |
+|--------|--------------------|------------------------------|
+| GET    | `/api/items`       | Retrieve all items           |
+| GET    | `/api/items/:id`   | Retrieve a single item by ID |
+| POST   | `/api/items`       | Create a new item            |
+| PUT    | `/api/items/:id`   | Update an existing item      |
+| DELETE | `/api/items/:id`   | Delete an item               |
