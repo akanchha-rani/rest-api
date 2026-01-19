@@ -31,9 +31,13 @@ This repository contains a simple backend REST API meant for learning and demons
 🧰 Features
 
 ✔️ Create a new record
+
 ✔️ Retrieve one or more records
+
 ✔️ Update an existing record
+
 ✔️ Delete a record
+
 ✔️ Use via Postman HTTP requests
 
 🚀 Tech Stack
