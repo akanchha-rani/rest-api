@@ -27,3 +27,11 @@ This service is built to demonstrate REST-style API endpoints for managing data 
 📌 About
 
 This repository contains a simple backend REST API meant for learning and demonstration. It supports basic CRUD operations (Create, Read, Update & Delete) on a resource — tested via API clients like Postman.
+
+🧰 Features
+
+✔️ Create a new record
+✔️ Retrieve one or more records
+✔️ Update an existing record
+✔️ Delete a record
+✔️ Use via Postman HTTP requests
