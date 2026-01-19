@@ -35,3 +35,13 @@ This repository contains a simple backend REST API meant for learning and demons
 ✔️ Update an existing record
 ✔️ Delete a record
 ✔️ Use via Postman HTTP requests
+
+🚀 Tech Stack
+
+The project uses:
+
+Node.js — JavaScript runtime
+
+Express.js — Web framework for routing and API handling
+
+Postman — For testing the API endpoints
