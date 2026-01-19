@@ -16,13 +16,8 @@ This service is built to demonstrate REST-style API endpoints for managing data 
 
 ⚙️ Requirements
 
-🔧 Installation
-
-🏃‍♂️ Running the Server
-
 🧪 API Endpoints
 
-💡 Example Postman Requests
 
 📌 About
 
