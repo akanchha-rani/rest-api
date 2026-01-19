@@ -66,3 +66,11 @@ Node.js
 npm (Node package manager)
 
 Postman to test requests
+
+🧪 API Endpoints
+Method	Route	Description
+GET	/api/items	List all items
+GET	/api/items/:id	Get details of one item
+POST	/api/items	Create a new item
+PUT	/api/items/:id	Update an existing item
+DELETE	/api/items/:id	Delete an item
