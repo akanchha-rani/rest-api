@@ -50,16 +50,27 @@ Express.js — Web framework for routing and API handling
 
 Postman — For testing the API endpoints
 
+
 🧱 Project Structure
+
 rest-api/
+
 ├── backend/
+
 │   ├── controllers/
+
 │   ├── routes/
+
 │   ├── models/
+
 │   └── index.js
+
 ├── .gitignore
+
 ├── package.json
+
 └── README.md
+
 
 ⚙️ Requirements
 
