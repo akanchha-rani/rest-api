@@ -56,3 +56,13 @@ rest-api/
 ├── .gitignore
 ├── package.json
 └── README.md
+
+⚙️ Requirements
+
+Ensure you have installed:
+
+Node.js
+
+npm (Node package manager)
+
+Postman to test requests
